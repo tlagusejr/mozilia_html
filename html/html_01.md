@@ -27,7 +27,11 @@ HyperText Mark-up Language 으로써 물리학자 티머시 J. 버너스리가 �
   <li><a href= https://developer.mozilla.org/ko/docs/Web/HTML/Element/em>em</a> : 이탤릭체   </li>
   <li><a href= https://developer.mozilla.org/ko/docs/Web/HTML/Element/a>a</a> : 링크   </li>
   <li><a href= https://developer.mozilla.org/ko/docs/Web/HTML/Element/img>img</a> : 이미지</li>
-</ul>   
+</ul> 
+<p>
+위에 태그들과 또 다른 다양한 태그들을 알아보면서 html을 알아가 볼 것입니다! 해당 문서는 모질리아 재단의 https://developer.mozilla.org/ko/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals를 참고하고 있습니다.
+</p>
+![image](https://user-images.githubusercontent.com/52907198/152165432-1390bf53-9bd4-46c6-88ef-a0a94e3efdbc.png)
 <h3>
-<a href= https://github.com/tlagusejr/mozilia_html/blob/main/html/html_02.md>다음 문서 보기</a>
+<a href= https://github.com/tlagusejr/mozilia_html/blob/main/html/html_02.md>다음 문서 보기</a>&lt;p&gt; 태그와 &lt;h&gt; 태그
 </h3>
