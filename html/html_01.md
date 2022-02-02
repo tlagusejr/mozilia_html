@@ -29,7 +29,7 @@ HyperText Mark-up Language 으로써 물리학자 티머시 J. 버너스리가 �
   <li><a href= https://developer.mozilla.org/ko/docs/Web/HTML/Element/img>img</a> : 이미지</li>
 </ul> 
 <a href = https://www.mozilla.org/ko/>
-  <img src= https://raw.githubusercontent.com/mdn/beginner-html-site/gh-pages/images/firefox-icon.png>
+  <img src= https://www.mozilla.org/media/protocol/img/logos/mozilla/logo-word-hor.e20791bb4dd4.svg>
 </a>
 <p>
   위에 태그들과 또 다른 다양한 태그들을 알아보면서 html을 알아가 볼 것입니다!   
