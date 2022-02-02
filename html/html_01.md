@@ -29,5 +29,5 @@ HyperText Mark-up Language 으로써 물리학자 티머시 J. 버너스리가 �
   <li><a href= https://developer.mozilla.org/ko/docs/Web/HTML/Element/img>img</a> : 이미지</li>
 </ul>   
 <h3>
-<a href= 링크>다음 문서 보기</a>
+<a href= https://github.com/tlagusejr/mozilia_html/blob/main/html/html_02.md>다음 문서 보기</a>
 </h3>
