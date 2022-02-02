@@ -1,9 +1,9 @@
 # mozilia_html
 
-## https://developer.mozilla.org/ko/docs/Learn/CSS/Building_blocks/The_box_model 를 참고한 글입니다
+## https://developer.mozilla.org/ko/docs/Learn/HTML 를 참고한 글입니다. html, css, js 를 공부하기 위해 정리해놓은 글입니다. 
 
 ### 
-> 1. 
-> 2.
-> 3.
-> 4.
+> 1. html 링크
+> 2. css 링크
+> 3. js 링크
+
