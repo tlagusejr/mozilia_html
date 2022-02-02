@@ -9,10 +9,10 @@
 </p>
 <h3> 1.1 html의 예 => &lt;p&gt;My cat is very grumpy&lt;/p&gt;</h3>
 <ul>
-<li>&lt;p&gt; 여는 태그</li>
-<li>&lt;/p&gt; 닫는 태그</li>   
-<li>My cat is very grumpy 내용(Content)</li>   
-<li>요소(Element): 여는 태그, 닫는 태그, 내용을 통틀어 요소(element)라고 합니다.</li>
+<li><strong>&lt;p&gt; </strong>여는 태그</li>
+<li><strong>&lt;/p&gt; </strong>닫는 태그</li>   
+<li><strong>My cat is very grumpy </strong>내용(Content)</li>   
+<li><strong>요소(Element)</strong>: 여는 태그, 닫는 태그, 내용을 통틀어 요소(element)라고 합니다.</li>
 </ul>
 <h3>1.2 html의 태그 정리 </h3>
 <ul>
