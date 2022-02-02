@@ -6,6 +6,10 @@
 > 1. [html][htmllink]
 
 [htmllink]: https://google.com "htmllink"
-> 2. css 링크
-> 3. js 링크
+> 2.  [css][csslink]
+
+[csslink]: https://google.com "htmllink"
+> 3. [js][jslink]
+
+[jslink]: https://google.com "htmllink"
 
