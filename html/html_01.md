@@ -4,12 +4,16 @@
 <img src = "https://i.imgur.com/hTXsC5I.jpeg"/>    
 
 <h3> 1. html이란   </h3>
+<p>
 HyperText Mark-up Language 으로써 물리학자 티머시 J. 버너스리가 만든 마크업 언어입니다.
+</p>
 <h3> 1.1 html의 예 => &lt;p&gt;My cat is very grumpy&lt;/p&gt;</h3>
-&lt;p&gt; 여는 태그
-&lt;/p&gt; 닫는 태그   
-My cat is very grumpy Content0   
-요소(Element): 여는 태그, 닫는 태그, 내용을 통틀어 요소(element)라고 합니다.
+<ul>
+<li>&lt;p&gt; 여는 태그</li>
+<li>&lt;/p&gt; 닫는 태그</li>   
+<li>My cat is very grumpy 내용(Content)</li>   
+<li>요소(Element): 여는 태그, 닫는 태그, 내용을 통틀어 요소(element)라고 합니다.</li>
+</ul>
 <h3>1.2 html의 태그 정리 </h3>
 <ul>
   <li><a href= https://developer.mozilla.org/ko/docs/Web/HTML/Element/html>html</a> : html의 시작과 끝 표시   </li>
