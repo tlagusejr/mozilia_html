@@ -5,7 +5,7 @@
 
 <h3> 1. html이란   </h3>
 <p>
-HyperText Mark-up Language 으로써 물리학자 <a href = https://ko.wikipedia.org/wiki/%ED%8C%80_%EB%B2%84%EB%84%88%EC%8A%A4%EB%A6%AC>티머시 J. 버너스리<a>가 만든 마크업 언어입니다.
+<a href = https://ko.wikipedia.org/wiki/HTML><strong>HyperText Mark-up Language </strong></a> 으로써 물리학자 <a href = https://ko.wikipedia.org/wiki/%ED%8C%80_%EB%B2%84%EB%84%88%EC%8A%A4%EB%A6%AC><strong>티머시 J. 버너스리</strong><a>가 만든 마크업 언어입니다.
 </p>
 <h3> 1.1 html의 예 => &lt;p&gt;My cat is very grumpy&lt;/p&gt;</h3>
 <ul>
