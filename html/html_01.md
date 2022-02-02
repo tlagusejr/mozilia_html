@@ -38,7 +38,7 @@
 </a>
 <p>
   위에 태그들과 또 다른 다양한 태그들을 알아보면서 html을 알아가 볼 것입니다!   
-  해당 문서는 <b>모질라</b> 재단의 https://developer.mozilla.org/ko/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals를 참고하고 있습니다.
+  해당 문서는 <b>모질라</b> 재단의 https://developer.mozilla.org/ko/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals 를 참고하고 있습니다.
 </p>
 
 <h3>
