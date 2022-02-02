@@ -5,7 +5,7 @@
 ### 
 > 1. [html][htmllink]
 
-[htmllink]: https://github.com/tlagusejr/mozilia_html/blob/main/html/html00.md "htmllink"
+[htmllink]: https://github.com/tlagusejr/mozilia_html/tree/main/html "htmllink"
 > 2.  [css][csslink]
 
 [csslink]: https://google.com "htmllink"
