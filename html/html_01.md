@@ -1,5 +1,5 @@
 
-<h1> html</h1>
+<h1> html 입문</h1>
 
 <img src = "https://i.imgur.com/hTXsC5I.jpeg"/>    
 
@@ -53,7 +53,6 @@
 <img src = https://mdn.mozillademos.org/files/12323/title-example.png/>
   
 
-<a href= https://github.com/tlagusejr/mozilia_html/blob/main/html/html_02.md>다음 문서 보기</a>&lt;p&gt; 태그와 &lt;h&gt; 태그
-
+<a href= https://github.com/tlagusejr/mozilia_html/blob/main/html/html_02.md>다음 문서 보기</a>&lt;p&gt; 태그와 &lt;h&gt; 태그 알아보기
 
 해당 문서는 <b>모질라</b> 재단의 https://developer.mozilla.org/ko/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals 를 참고하고 있습니다.
