@@ -38,9 +38,22 @@
 </a>
 <p>
   위에 태그들과 또 다른 다양한 태그들을 알아보면서 html을 알아가 볼 것입니다!   
-  해당 문서는 <b>모질라</b> 재단의 https://developer.mozilla.org/ko/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals 를 참고하고 있습니다.
-</p>
+  </p>
+<h3>1.3 html &lt;head&gt;과 &lt;body&gt;</h3>
+<p>&lt;head&gt;란 페이지에 &lt;head&gt;안의 태그는 표시 되지 않습니다. head의 내용이 하는 일은 페이지에 대한 metadata를 포함하는 것입니다. </p>
+<p>&lt;head&gt;</p>
+<p>&lt;meta charset="utf-8"&gt;</p>
+<p>&lt;title&gt;My test page&lt;/title&gt;</p>
+<p>&lt;/head&gt;</p>
 
-<h3>
+
+<p>  <title>이란 아래 그림처럼 좌측상단에 title elment로 나타나는 항목입니다.</p>
+<p>&lt;head&gt;의 내용이 하는 일은 페이지에 대한 metadata를 포함하는 것입니다. </p>
+<p>&lt;meta charset="utf-8"&gt;은 문서를 utf-8로 인코딩 하는 것으로 알맞게 태그를 태깅 하지 않는다면 문서가 깨져서 나올 수 있습니다.</p>
+<img src = https://mdn.mozillademos.org/files/12323/title-example.png/>
+  
+
 <a href= https://github.com/tlagusejr/mozilia_html/blob/main/html/html_02.md>다음 문서 보기</a>&lt;p&gt; 태그와 &lt;h&gt; 태그
-</h3>
+
+
+해당 문서는 <b>모질라</b> 재단의 https://developer.mozilla.org/ko/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals 를 참고하고 있습니다.
