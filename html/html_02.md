@@ -19,6 +19,6 @@
 <p><strong>&lt;p&gt;</strong>태그는 보통 문서의 내용을 적을 경우에 사용됩니다.
 <p><strong>&lt;p&gt;</strong>태그입니다. <p/>
 
-<h3>
+<p>
 <a href= https://github.com/tlagusejr/mozilia_html/blob/main/html/html_02.md>다음 문서 보기</a>&lt;p&gt; 태그와 &lt;h&gt; 태그
-</h3>
+<p>
