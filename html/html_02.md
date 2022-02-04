@@ -1,6 +1,6 @@
 <h1>&lt;h&gt;태그 &lt;p&gt;태그 이해하기</h1>
 
-<1>1. <strong>&lt;h&gt;태그 이해하기</strong><p/>     
+<p>1. <strong>&lt;h&gt;태그 이해하기</strong><p/>     
 <p><strong>&lt;h&gt;</strong>태그란 제목태그로 대제목 중제목 소제목 이런식으로 적을수 있습니다. <strong>&lt;h1&gt;</strong>부터 <strong>&lt;h6까지 나열하면&gt;</strong><p/>
 
   <h1>h1 Hello! HTML WORLD!</h1>
