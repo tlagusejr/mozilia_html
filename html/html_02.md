@@ -20,5 +20,5 @@
 <p><strong>&lt;p&gt;</strong>태그입니다. <p/>
 
 <p>
-<a href= https://github.com/tlagusejr/mozilia_html/blob/main/html/html_02.md>다음 문서 보기</a>&lt;p&gt; 태그와 &lt;h&gt; 태그
+<a href= https://github.com/tlagusejr/mozilia_html/blob/main/html/html_03.md>다음 문서 보기</a>&lt;p&gt; 태그와 &lt;h&gt; 태그
 <p>
