@@ -1,17 +1,20 @@
 <h1>&lt;h&gt;태그 &lt;p&gt;태그 이해하기</h1>
-<h2>
-1. h태그 이해하기    
-</h3>
-<p>h태그란 어쩌구 저쩌구 </p>
 
-  <h1>Hello! HTML WORLD!</h1>
+<1>1. &lt;h&gt;태그 이해하기<p/>     
+<p>&lt;h&gt;태그란 제목태그로 대제목 중제목 소제목 이런식으로 적을수 있습니다. &lt;h1&gt;부터 &lt;h까지 나열하면&gt;<p/>
 
-  <h2>Hello! HTML WORLD!</h2>
+  <h1>h1 Hello! HTML WORLD!</h1>
 
-  <h3>Hello! HTML WORLD!</h3>
+  <h2>h2 Hello! HTML WORLD!</h2>
 
-  <h4>Hello! HTML WORLD!</h4>
+  <h3>h3 Hello! HTML WORLD!</h3>
+
+  <h4>h4 Hello! HTML WORLD!</h4>
  
-  <h5>Hello! HTML WORLD!</h5>
+  <h5>h5 Hello! HTML WORLD!</h5>
    
-  <h6>Hello! HTML WORLD!</h6>
+  <h6>h6 Hello! HTML WORLD!</h6>
+<p>표현할 수 있습니다.</p>
+<h2>2. &lt;p&gt;태그 이해하기<h2/>   
+<p>&lt;p&gt;태그는 보통 문서의 내용을 적을 경우에 사용됩니다.
+<p>&lt;p&gt;태그입니다. <p/>
